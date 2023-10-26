@@ -1,0 +1,5 @@
+1- İlk iki elemanı 1'e eşit olan, en az 20 elemanlı bir fibonacci serisini liste halinde oluşturan döngü yazalım.
+2- Kullanıcıdan aldığı sayının mükemmel olup olmadığını söyleyen bir program yazınız.(Arş. Mükemmel sayı?)
+3- Kullanıcıdan girilen sayının EBOB ve EKOK'unu bulan programı yazınız.
+4- Kullanıcıdan girilen sayının asal sayı olup olmadığını söyleyen bir program yazınız.
+5- Kullanıcıdan girilen sayının asal çarpanlarını bulan bir program yazınız. 
