@@ -6,3 +6,4 @@ tobeto istanbul-kodluyor
 31.10.2023 tarihinde draw.io üzerinde yapılan veri modelleme çalışmaları eklendi.
 2.11.2023 tarihinde northwind database üzerinde yapılan sorgulama çalışmaları eklendi.
 7.11.2023 tarihinde northwind database üzerinde yapılan sorgulama çalışmaları eklendi.
+9.11.2023 tarihinde northwind database üzerinde yapılan sorgulama çalışmaları eklendi.
